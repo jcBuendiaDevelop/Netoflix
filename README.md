@@ -1,9 +1,9 @@
 # NetoFlix
 
-Cloon de netflix creado con React.js.  
+Clon de netflix usando React.js.  
 
 Para incializar la app tienes que bajar dependecias que se encuentran en el 
-package.json y esto lo podemos lograr con el siguientes coomandos.
+package.json y esto lo podemos lograr con el siguientes comandos.
 ```sh
 $ npm install 
 ```
@@ -32,7 +32,7 @@ una vez logeado tendremos el home de la app
      alt="home"
      style="float: left; margin-right: 10px;" />
 
-Para realizar alguna busqueda ediatmos y damos enter y el resultado sera presentado en la parte de abajo 
+Para realizar alguna busqueda editamos y damos enter y el resultado sera presentado en la parte de abajo 
 
 ## BUSQUEDAS:
 
@@ -44,3 +44,13 @@ Para realizar alguna busqueda ediatmos y damos enter y el resultado sera present
      alt="result"
      style="float: left; margin-right: 10px;" />
 
+
+Creado por Juan Carlos Buendia
+
+License
+----
+
+MIT
+
+
+**Free Software, Hell Yeah!**
