@@ -28,11 +28,19 @@ una vez logeado tendremos el home de la app
 
 ## HOME:
 
- <img src="Home.PNG" alt="home">
+<img src="Home.png"
+     alt="home"
+     style="float: left; margin-right: 10px;" />
 
 Para realizar alguna busqueda ediatmos y damos enter y el resultado sera presentado en la parte de abajo 
 
 ## BUSQUEDAS:
 
- <img src="Search.PNG" alt="search">
- <img src="Result.PNG" alt="result">
+<img src="Search.png"
+     alt="search"
+     style="float: left; margin-right: 10px;" />
+
+<img src="Result.png"
+     alt="result"
+     style="float: left; margin-right: 10px;" />
+
