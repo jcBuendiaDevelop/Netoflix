@@ -20,7 +20,9 @@ el resultado sera el login de la app
 *  Usuario  - jcbuendia
 *  Password - jcbuendia
 
- <img src="Login.PNG" alt="home">
+<img src="Login.png"
+     alt="login"
+     style="float: left; margin-right: 10px;" />
 
 una vez logeado tendremos el home de la app
 
