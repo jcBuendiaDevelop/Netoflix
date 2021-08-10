@@ -5,7 +5,7 @@ const Search = ({onChange, onKeyUp, value}) => (
         onChange={onChange}
         onKeyUp={onKeyUp}
         value={value}
-        placeholder="Busqueda por titulo.."
+        placeholder="Busca alguna pelicula de tu agrado"
     />
 )
 
